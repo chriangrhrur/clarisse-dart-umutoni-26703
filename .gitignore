@@ -1,0 +1,11 @@
+# Dart
+.dart_tool/
+.packages
+build/
+pubspec.lock
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
